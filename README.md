@@ -3,7 +3,7 @@
 ## Overview
 AI project with two agents: Basic Mover and Drone.
 - Mover reaches the target.
-- Drone trys hovers over the target.
+- Drone trys to hover over the target.
 
 ## Drone AI Agent Showcase
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bl-fjn-CxMM/0.jpg)](https://www.youtube.com/watch?v=Bl-fjn-CxMM)
