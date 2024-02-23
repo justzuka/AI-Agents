@@ -6,7 +6,7 @@ AI project with two agents: Basic Mover and Drone.
 - Drone trys to hover over the target.
 
 ## Drone AI Agent Showcase
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bl-fjn-CxMM/0.jpg)](https://www.youtube.com/watch?v=Bl-fjn-CxMM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AWrY5sdMG0g/0.jpg)](https://www.youtube.com/watch?v=AWrY5sdMG0g)
 
 ### Try It Yourself
 1. **Download the project.**
